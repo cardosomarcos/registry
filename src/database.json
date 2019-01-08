@@ -16,5 +16,6 @@
   "dejs": "https://raw.githubusercontent.com/syumai/dejs/${b}/",
   "pretty_assert": "https://raw.githubusercontent.com/bokuweb/deno-pretty-assert/${b}/",
   "watch": "https://raw.githubusercontent.com/jinjor/deno-watch/${b}/",
-  "task_runner": "https://raw.githubusercontent.com/jinjor/deno-task-runner/${b}/"
+  "task_runner": "https://raw.githubusercontent.com/jinjor/deno-task-runner/${b}/",
+  "cardosomarcos/dotenv": "https://raw.githubusercontent.com/cardosomarcos/deno-dotenv/${b}/index.ts"
 }
